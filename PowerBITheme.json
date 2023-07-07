@@ -1,0 +1,7 @@
+{
+         "name": "From Page to Screen",
+         "dataColors": ["#745E4D", "#DDC1A7", "#433831", "#BD9479", "#A17A60", "#F8F7F4", "#000000", "#F8F7F4"],
+         "background":"#F8F7F4",
+         "foreground": "#F8F7F4",
+         "tableAccent": "#745E4D"
+     }
