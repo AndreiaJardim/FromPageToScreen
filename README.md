@@ -49,7 +49,7 @@ Based on the analysis, the project concludes that movies not based on books tend
 
 <a name="resources"></a>
 ## Resources
-The data collection and analysis code can be found in the code directory (Movie_Study.ipynb). <br>
-The necessary libraries can be found in the requirements file in the directory (requirements.txt).<br>
-The Power BI report file is located in the reports directory.<br>
-Additional resources used for data analysis, hypothesis testing, and Power BI development are listed in the resources file.<br>
+- The data collection and analysis code can be found in the code directory (Movie_Study.ipynb). <br>
+- The necessary libraries can be found in the requirements file in the directory (requirements.txt).<br>
+- The Power BI report file is located in the reports directory.<br>
+- Additional resources used for data analysis, hypothesis testing, and Power BI development are listed in the resources file.<br>
